@@ -1,0 +1,19 @@
+{
+  "name": "com.twinfaerie.signal",
+  "version": "1.0.0",
+  "displayName": "TwinFaerie Signal",
+  "description": "For standarize and easier system initialization on unity",
+  "unity": "2020.3",
+  "documentationUrl": "https://github.com/TwinFaerie/twinfaerie-signal/",
+  "changelogUrl": "https://github.com/TwinFaerie/twinfaerie-signal/releases",
+  "licensesUrl": "https://github.com/TwinFaerie/twinfaerie-signal/blob/main/LICENSE",
+  "repository": "https://github.com/TwinFaerie/twinfaerie-signal",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@twinfaerie"
+  },
+  "author": {
+    "name": "Twin Faerie",
+    "email": "support@twinfaerie.my.id",
+    "url": "https://www.twinfaerie.my.id/"
+  }
+}
